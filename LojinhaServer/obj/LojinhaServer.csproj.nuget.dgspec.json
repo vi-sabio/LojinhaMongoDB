@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj": {}
+    "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj": {
+    "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
         "projectName": "LojinhaServer",
-        "projectPath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
+        "projectPath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
         "packagesPath": "C:\\Users\\Vinicios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\obj\\",
+        "outputPath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicios\\AppData\\Roaming\\NuGet\\NuGet.Config"

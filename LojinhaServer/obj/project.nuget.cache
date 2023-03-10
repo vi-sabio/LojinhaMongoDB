@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Md5GjjxOlwmesBCyFXxzoCRfbKMDK38A2mdLgMHAVIiLkJtJt1l6ILR/IxQV9vmTTjBCZy3MX6TVKo+1ZBIs4g==",
+  "dgSpecHash": "cDpkLdEC9RBoQPRRomdKlyuIQDmazJkrU1pIDyMzbdTqRDzj+bRAxCsDaEQBMngjHKgar85XUMk5PK6uph4T/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
+  "projectFilePath": "C:\\Users\\Vinicios\\OneDrive\\Desktop\\LojinhaMongoDB\\LojinhaServer\\LojinhaServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicios\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Vinicios\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
