@@ -3,11 +3,11 @@ using MongoDB.Driver;
 
 namespace LojinhaServer.Repositories;
 
-    public class ProductRepositrory : IProductRepository
+    public class ProductRepository : IProductRepository
     {
         private readonly IMongoCollection<Product> _collection;
 
-        public ProductRepositrory(IMongoDatabase MongoDatabase)
+        public ProductRepository(IMongoDatabase MongoDatabase)
         {
             _collection = MongoDatabase.GetCollection<Product>("products");
         }

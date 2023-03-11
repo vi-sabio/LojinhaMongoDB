@@ -37,7 +37,7 @@ namespace LojinhaServer.Controllers;
         public async Task<IActionResult> Post(Product product)
         {
             await _repo.CreateAsync(product);
-            return CreatedAction(nameof(Get), new {id = product.Id}, product);
+            return CreatedAtAction(nameof(Get), new {id = product.Id}, product);
         }
 
         [HttpPut]
@@ -48,7 +48,7 @@ namespace LojinhaServer.Controllers;
             {
                 return NotFound();
             }
-            await _repo.UpdateAsunc(product);
+            await _repo.UpdateAsync(product);
             return NoContent();
         }
 

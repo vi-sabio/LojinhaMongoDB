@@ -7,7 +7,7 @@ namespace LojinhaServer.Collections;
 
 [Table("products") ]
 [BsonIgnoreExtraElements]
-public class products
+public class Product
 {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
